@@ -55,7 +55,7 @@ steps:
     script: |
 
 
-      print('Hello world 1')
+      print('Talpa')
 
 
       print('KLU')
